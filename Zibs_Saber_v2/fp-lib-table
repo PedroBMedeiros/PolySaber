@@ -1,4 +1,0 @@
-(fp_lib_table
-  (version 7)
-  (lib (name "A_ProjectLibrary")(type "KiCad")(uri "${KIPRJMOD}/A_ProjectLibrary.pretty")(options "")(descr ""))
-)
